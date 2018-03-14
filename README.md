@@ -9,6 +9,8 @@ A simple tool for labeling object bounding boxes in images, implemented with Pyt
 **Screenshot:**
 ![Label Tool](./screenshot.png)
 
+How to use:
+Edit line no. 135 and 146 for input dateset directory[image dataset path] and output directory [lable data path]
 Data Organization
 -----------------
 LabelTool  
