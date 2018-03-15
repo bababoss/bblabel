@@ -292,4 +292,4 @@ if __name__ == '__main__':
     root = Tk()
     tool = LabelTool(root)
     root.resizable(width =  True, height = True)
-    root.mainloop()
+root.mainloop()
