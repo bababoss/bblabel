@@ -1,10 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Object bounding box label tool
-# Purpose:     Label object bboxes for ImageNet Detection data
-
-
-#
-#-------------------------------------------------------------------------------
 from __future__ import division
 from Tkinter import *
 import tkMessageBox
